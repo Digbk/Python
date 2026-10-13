@@ -1,0 +1,24 @@
+**Phase 1 — Product definition**
+
+1. Finalize the SMENK brand guidelines
+2. Define the exact target users
+3. Define the core USP
+4. Separate features into **MVP / V2 / V3**
+5. Define what will always remain free
+
+**Phase 2 — App UX/UI**
+6. Splash screen
+7. Onboarding
+8. Phone-number authentication
+9. Home/dashboard
+10. Chats
+11. Individual chat
+12. Group chat
+13. Calls
+14. Communities
+15. Status
+16. Contacts
+17. Profile
+18. Settings
+19. Privacy & security center
+20. Media/files/document manager

@@ -1,0 +1,35 @@
+**Phase 3 — Core messaging**
+21. One-to-one messaging
+22. Group messaging
+23. Text
+24. Images
+25. Videos
+26. Documents
+27. Voice messages
+28. Replies
+29. Reactions
+30. Edit/delete
+31. Forwarding
+32. Message search
+33. Pinning
+34. Disappearing messages
+35. Read/delivery status
+36. Offline message synchronization
+
+**Phase 4 — Indian-first features**
+
+This is where SMENK needs to differentiate itself.
+
+37. Major Indian-language interfaces
+38. Regional-language support
+39. Low-data mode
+40. Low-network optimization
+41. Family spaces
+42. Community spaces
+43. Apartment/society communities
+44. School/college communities
+45. Events
+46. Polls
+47. Announcements
+48. Shared community documents
+49. Regional customization
